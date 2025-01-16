@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vercel/node": "^5.0.2",
+    "json-server": "0.17.4",
+    "json-server-auth": "^2.1.0"
+  },
+  "devDependencies": {}
+}
