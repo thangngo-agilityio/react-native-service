@@ -9,7 +9,6 @@ const port = process.env.PORT || 3000;
 server.use(middlewares);
 
 const rules = jsonServerAuth.rewriter({
-  // Permission rules
   users: 600,
   products: 644,
   carts: 600,
@@ -22,5 +21,4 @@ server.use(router);
 
 server.listen(port);
 
-// Export the Server API
 module.exports = server;
