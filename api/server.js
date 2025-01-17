@@ -1,7 +1,5 @@
 const jsonServer = require("json-server");
 const jsonServerAuth = require("json-server-auth");
-const fs = require("fs");
-const path = require("path");
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
