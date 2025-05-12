@@ -10,8 +10,7 @@ server.use(middlewares);
 
 const rules = jsonServerAuth.rewriter({
   users: 600,
-  products: 644,
-  carts: 600,
+  playlist: 644,
 });
 
 server.db = router.db;
