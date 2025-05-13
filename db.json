@@ -8,90 +8,112 @@
       "image": ["https://media0.giphy.com/avatars/__magaby/Y52PkRBcFUm7.png"],
       "musicList": [
         {
+          "id": "1",
           "name": "Breezy escape chill",
           "music": "./assets/musics/hearbeat/breezy-escape-chill-background-music-271240.mp3"
         },
         {
+          "id": "2",
           "name": "Dadx27s radio",
           "music": "./assets/musics/hearbeat/dadx27s-radio-120717.mp3"
         },
         {
+          "id": "3",
           "name": "Dream of peace",
           "music": "./assets/musics/hearbeat/dream-of-peace-chill-background-music-271248.mp3"
         },
         {
+          "id": "4",
           "name": "Empty mind",
           "music": "./assets/musics/hearbeat/empty-mind-118973.mp3"
         },
         {
+          "id": "5",
           "name": "Falling dewdrops",
           "music": "./assets/musics/hearbeat/falling-dewdrops-chill-background-music-271254.mp3"
         },
         {
+          "id": "6",
           "name": "Flow of time",
           "music": "./assets/musics/hearbeat/flow-of-time-chill-background-music-271258.mp3"
         },
         {
+          "id": "7",
           "name": "Freedom in the sky",
           "music": "./assets/musics/hearbeat/freedom-in-the-sky-chill-background-music-271244.mp3"
         },
         {
+          "id": "8",
           "name": "In the room when the rain pouring",
           "music": "./assets/musics/hearbeat/in-the-room-when-the-rain-pouring-117209.mp3"
         },
         {
+          "id": "9",
           "name": "let me go back",
           "music": "./assets/musics/hearbeat/let-me-go-back-ndb-beat-lofi-339819.mp3"
         },
         {
+          "id": "10",
           "name": "lofi beat",
           "music": "./assets/musics/hearbeat/lofi-beat-chill-7373.mp3"
         },
         {
+          "id": "11",
           "name": "Lofi music hiphop",
           "music": "./assets/musics/hearbeat/lofi-music-hiphop-chill-300736.mp3"
         },
         {
+          "id": "12",
           "name": "Morning coffee",
           "music": "./assets/musics/hearbeat/morning-coffee-aroma-271256.mp3"
         },
         {
+          "id": "13",
           "name": "Not lazy just chill",
           "music": "./assets/musics/hearbeat/not-lazy-just-chill-268462.mp3"
         },
         {
+          "id": "14",
           "name": "Peace in every note chill",
           "music": "./assets/musics/hearbeat/peace-in-every-note-chill-background-music-271253.mp3"
         },
         {
+          "id": "15",
           "name": "priceless moments",
           "music": "./assets/musics/hearbeat/priceless-moments-271255.mp3"
         },
         {
+          "id": "16",
           "name": "Satisfying lofi for focus study amp working",
           "music": "./assets/musics/hearbeat/satisfying-lofi-for-focus-study-amp-working-242103.mp3"
         },
         {
+          "id": "17",
           "name": "Silent garden blooms",
           "music": "./assets/musics/hearbeat/silent-garden-blooms-271262.mp3"
         },
         {
+          "id": "18",
           "name": "Silent moments in the city",
           "music": "./assets/musics/hearbeat/silent-moments-in-the-city-lo-fi-chill-background-music-for-video-271250.mp3"
         },
         {
+          "id": "19",
           "name": "Sleeping in the sun",
           "music": "./assets/musics/hearbeat/sleeping-in-the-sun-chill-background-music-271242.mp3"
         },
         {
+          "id": "20",
           "name": "Tasty chill lofi vibe",
           "music": "./assets/musics/hearbeat/tasty-chill-lofi-vibe-242105.mp3"
         },
         {
+          "id": "21",
           "name": "The journey ends",
           "music": "./assets/musics/hearbeat/the-journey-ends-120718.mp3"
         },
         {
+          "id": "22",
           "name": "Today failed but it's okay",
           "music": "./assets/musics/hearbeat/today-failed-but-itx27s-okay-268477.mp3"
         }
@@ -106,54 +128,67 @@
       ],
       "musicList": [
         {
+          "id": "1",
           "name": "Bathroom chill",
           "music": "./assets/musics/lofi/bathroom-chill-background-music-14977.mp3"
         },
         {
+          "id": "2",
           "name": "Chill lofi music interior lounge",
           "music": "./assets/musics/lofi/chill-lofi-music-interior-lounge-256260.mp3"
         },
         {
+          "id": "3",
           "name": "Dad's radio",
           "music": "./assets/musics/lofi/dadx27s-radio-120717.mp3"
         },
         {
+          "id": "4",
           "name": "Daily coffee upbeat lofi groove",
           "music": "./assets/musics/lofi/daily-coffee-upbeat-lofi-groove-242099.mp3"
         },
         {
+          "id": "5",
           "name": "Daily routine work",
           "music": "./assets/musics/lofi/daily-routine-work-116972.mp3"
         },
         {
+          "id": "6",
           "name": "Dripping",
           "music": "./assets/musics/lofi/dripping-118422.mp3"
         },
         {
+          "id": "7",
           "name": "Lofi music hiphop",
           "music": "./assets/musics/lofi/lofi-beat-chill-7373.mp3"
         },
         {
+          "id": "8",
           "name": "Lofi chill",
           "music": "./assets/musics/lofi/lofi-chill-315216.mp3"
         },
         {
+          "id": "9",
           "name": "=Lofi chill jazz",
           "music": "./assets/musics/lofi/lofi-chill-jazz-272869.mp3"
         },
         {
+          "id": "10",
           "name": "Lofi hip hop",
           "music": "./assets/musics/lofi/lofi-hip-hop-background-lofi-music-270003.mp3"
         },
         {
+          "id": "11",
           "name": "mussic 1",
           "music": "./assets/musics/lofi/music-1.mp3"
         },
         {
+          "id": "12",
           "name": "Sleepy cat",
           "music": "./assets/musics/lofi/sleepy-cat-118974.mp3"
         },
         {
+          "id": "13",
           "name": "The last train",
           "music": "./assets/musics/lofi/the-last-train-122342.mp3"
         }
@@ -168,26 +203,32 @@
       ],
       "musicList": [
         {
+          "id": "1",
           "name": "A gentle breeze in my heart",
           "music": "./assets/musics/jazz/a-gentle-breeze-in-my-heart-271263.mp3"
         },
         {
+          "id": "2",
           "name": "Bouncing breezes",
           "music": "./assets/musics/jazz/bouncing-breezes-263030.mp3"
         },
         {
+          "id": "3",
           "name": "Carefree cadence",
           "music": "./assets/musics/jazz/carefree-cadence-263032.mp3"
         },
         {
+          "id": "4",
           "name": "Chirpy chorus",
           "music": "./assets/musics/jazz/chirpy-chorus-263034.mp3"
         },
         {
+          "id": "5",
           "name": "Days of serenity",
           "music": "./assets/musics/jazz/days-of-serenity-chill-background-music-271259.mp3"
         },
         {
+          "id": "6",
           "name": "Falling into dreams",
           "music": "./assets/musics/jazz/falling-into-dreams-308498.mp3"
         }
@@ -202,34 +243,42 @@
       ],
       "musicList": [
         {
+          "id": "1",
           "name": "Calm before the storm",
           "music": "./assets/musics/rnb/calm-before-the-storm-308499.mp3"
         },
         {
+          "id": "2",
           "name": "Coffee shops",
           "music": "./assets/musics/rnb/chill-rnb-music-background-videos-work-music-coffee-shops-221108-267416.mp3"
         },
         {
+          "id": "3",
           "name": "Dancing under the moon",
           "music": "./assets/musics/rnb/dancing-under-the-moon-308495.mp3"
         },
         {
+          "id": "4",
           "name": "Echoes of the past",
           "music": "./assets/musics/rnb/echoes-of-the-past-308502.mp3"
         },
         {
+          "id": "5",
           "name": "Lost in the moment",
           "music": "./assets/musics/rnb/lost-in-the-moment-308496.mp3"
         },
         {
+          "id": "6",
           "name": "Melodies of the night",
           "music": "./assets/musics/rnb/melodies-of-the-night-308497.mp3"
         },
         {
+          "id": "7",
           "name": "Midnight in the city",
           "music": "./assets/musics/rnb/midnight-in-the-city-308491.mp3"
         },
         {
+          "id": "8",
           "name": "Relaxing in the meadow",
           "music": "./assets/musics/rnb/relaxing-in-the-meadow-308493.mp3"
         }
