@@ -3,14 +3,10 @@
   "playlist": [
     {
       "id": "6768d49800b398bd6640bd36",
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "beverages",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "condition": "Organic",
-      "location": "Kualalumpur, Malaysia",
-      "priceType": "Fixed"
+      "title": "Focus",
+      "description": "Ease the mind into a restful night’s sleep  with these deep, amblent tones.",
+      "image": "https://media0.giphy.com/avatars/__magaby/Y52PkRBcFUm7.png",
+      "musicList": ["./assets/musics/music-1.mp3"]
     }
   ]
 }
