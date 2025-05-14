@@ -5,7 +5,7 @@
       "id": "6768d49800b398bd6640bd36",
       "title": "Heartbeat",
       "description": "Ease the mind into a restful night’s sleep  with these deep, amblent tones.",
-      "image": ["https://media0.giphy.com/avatars/__magaby/Y52PkRBcFUm7.png"],
+      "image": "https://media0.giphy.com/avatars/__magaby/Y52PkRBcFUm7.png",
       "musicList": [
         {
           "id": "1",
@@ -123,9 +123,7 @@
       "id": "6768d49800b398bd6640c56",
       "title": "Lofi",
       "description": "Ease the mind into a restful night’s sleep  with these deep, amblent tones.",
-      "image": [
-        "https://wallpapers.com/images/featured/lo-fi-mvqzjym6ie17firw.jpg"
-      ],
+      "image": "https://wallpapers.com/images/featured/lo-fi-mvqzjym6ie17firw.jpg",
       "musicList": [
         {
           "id": "1",
@@ -198,9 +196,7 @@
       "id": "6768d49800b398bd6640as21",
       "title": "Jazz",
       "description": "Ease the mind into a restful night’s sleep  with these deep, amblent tones.",
-      "image": [
-        "https://t3.ftcdn.net/jpg/06/02/84/30/360_F_602843057_5SEn5jFVdZjipCBGlZtgVUmi58ZmNd3u.jpg"
-      ],
+      "image": "https://t3.ftcdn.net/jpg/06/02/84/30/360_F_602843057_5SEn5jFVdZjipCBGlZtgVUmi58ZmNd3u.jpg",
       "musicList": [
         {
           "id": "1",
@@ -238,9 +234,7 @@
       "id": "6768d49800b398bd6640vc42",
       "title": "RnB",
       "description": "Ease the mind into a restful night’s sleep  with these deep, amblent tones.",
-      "image": [
-        "https://taiandrewsinstrumentals.com/wp-content/uploads/2024/11/Modern-Rhythm-and-Blues-Introducing-Contemporary-RB-Music.jpg.webp"
-      ],
+      "image": "https://taiandrewsinstrumentals.com/wp-content/uploads/2024/11/Modern-Rhythm-and-Blues-Introducing-Contemporary-RB-Music.jpg.webp",
       "musicList": [
         {
           "id": "1",
